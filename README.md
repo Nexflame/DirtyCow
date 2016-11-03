@@ -1,2 +1,6 @@
 # DirtyCow
 A brief example of Dirty Cow exploit
+
+#TODO:
+  1. Refactor code to be more didactic
+  2. Make a presentation explaining how does it work.
